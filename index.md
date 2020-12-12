@@ -1,14 +1,22 @@
-# Text Mining
-
+# Text Mining - Course Syllabus
+## Content
 [Basic Information](#basic-information)
 
 [Course Overview](#course-overview)
 
 [Tentative Schedule](#tentative-schedule) 
 
+[Resources](#resources) 
 
+[Requirements](#requirements) 
 
+[Grading and Evaluation](#grading-and-evaluation) 
 
+[Policies](#policies) 
+
+[Academic Integrity](#academic-integrity) 
+
+[Accomodation](#accommodation) 
 
 ## Basic Information
 
@@ -32,7 +40,7 @@ Content in the first column | Content in the second column|3|4
 
 ## Academic Integrity
 
-## Statement on Accommodation
+## Accommodation
 
 
 
