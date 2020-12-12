@@ -10,28 +10,28 @@
 
 
 
-## Basic Information ([Back](#text-mining))
+## Basic Information
 
-## Course Overview ([Back](#text-mining))
+## Course Overview
 
-## Tentative Schedule ([Back](#text-mining))
+## Tentative Schedule
 
 Week | Topic | Resource | Deliverable (if any)
 ------------ | ------------- | ------------ | ------------- 
 Content from cell 1 | Content from cell 2 |3 |4
 Content in the first column | Content in the second column|3|4
 
-## Resources ([Back](#text-mining))
+## Resources
 
-## Requirements ([Back](#text-mining))
+## Requirements
 
-## Grading and Evaluation ([Back](#text-mining))
+## Grading and Evaluation
 
-## Policies ([Back](#text-mining))
+## Policies
 
-## Academic Integrity ([Back](#text-mining))
+## Academic Integrity
 
-## Statement on Accommodation ([Back](#text-mining))
+## Statement on Accommodation
 
 
 
