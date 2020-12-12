@@ -1,29 +1,37 @@
 # Text Mining
 
-[Basic Information](#basic-information) | [Course Overview](#course-overview)
+[Basic Information](#basic-information)
 
-## Basic Information ## [Back to Top]()
+[Course Overview](#course-overview)
 
-## Course Overview
+[Tentative Schedule](#tentative-schedule) 
 
-## Tentative Schedule
+
+
+
+
+## Basic Information ([Back](#text-mining))
+
+## Course Overview ([Back](#text-mining))
+
+## Tentative Schedule ([Back](#text-mining))
 
 Week | Topic | Resource | Deliverable (if any)
 ------------ | ------------- | ------------ | ------------- 
 Content from cell 1 | Content from cell 2 |3 |4
 Content in the first column | Content in the second column|3|4
 
-## Resources 
+## Resources ([Back](#text-mining))
 
-## Requirements
+## Requirements ([Back](#text-mining))
 
-## Grading and Evaluation
+## Grading and Evaluation ([Back](#text-mining))
 
-## Policies
+## Policies ([Back](#text-mining))
 
-## Academic Integrity
+## Academic Integrity ([Back](#text-mining))
 
-## Statement on Accommodation
+## Statement on Accommodation ([Back](#text-mining))
 
 
 
