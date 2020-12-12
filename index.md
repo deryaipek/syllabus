@@ -33,7 +33,7 @@
 
 **Office:** TBA
 
-([Back to Top](#text-mining))
+([Back to Top](##text-mining---course-syllabus))
 ## Course Overview and Learning Objectives
 
 ## Tentative Schedule
