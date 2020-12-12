@@ -12,8 +12,6 @@
 
 [Grading and Evaluation](#grading-and-evaluation) 
 
-[Policies](#policies) 
-
 [Academic Integrity](#academic-integrity) 
 
 [Accomodation](#accommodation) 
@@ -54,7 +52,7 @@ Week | Topic | Resource | Activity/**Deliverable**
 1 | Intro I - Text as Data  | Resource | Personal Introduction
 2 | Intro II - Text Mining Applications  | Resource | Project Ideas
 3 | Text Processing | Resource | **Homework 1**
-4 | Document Similarity  | Resource | -
+4 | Document Similarity  | Resource | Project Teams
 5 | Document Classification I - Naive Bayes and Classification Tree  | Resource | **Project Proposal**
 6 | Document Representation - Embeddings I  | Resource | -
 7 | Document Representation - Embeddings II | Resource | **Homework 2**
@@ -79,7 +77,7 @@ There are no required textbooks for this class. Resources will be released befor
 ([Back to Top](#text-mining---course-syllabus))
 ## Requirements
 
-There are no prerequisites for this course. However, to think for your best, we require a certain level of machine learning and Python knowledge/experience. You should have a basic understanding of the conventional ML methods such as Naive Bayes, Classification Trees, and Neural Networks. If you do not have the background but want to take this class, I can provide you with some tutorials so that you can catch up the content.
+There are no prerequisites for this course. However, to think for your best, we require a certain level of Machine Learning knowledge. You should have a basic understanding of the conventional ML methods such as Naive Bayes, Classification Trees, and Neural Networks. Additionally, we require experience with Python (especialy _numpy_ and _matplotlib_ and _scikit-learn_ libraries). If you do not have that background but want to take this class, please contact the teaching team. We can provide you with some tutorials so that you can catch up the course content.
 
 This class has a 20% attendance requirement. While I would like to provide you with the flexibility to follow the class within your availability, I also want to get to know all of you! Therefore, there is an attendance requirement.
 
@@ -93,12 +91,11 @@ This class has a 20% attendance requirement. While I would like to provide you w
 - Final Paper: 20% 
 
 ([Back to Top](#text-mining---course-syllabus))
-## Policies
-
-([Back to Top](#text-mining---course-syllabus))
 ## Academic Integrity
-
+All work other than the project in this course is to be done on an individual basis. Discussion among students are encouraged for homework assignments; however, your submissions should completely be your own work, and should not involve partial or complete copy of another student’s work.
+Similarly, a project team may not use partial or complete copy of another project team’s work. Graduate Honor System will be in effect for all aspects of this course.
 ([Back to Top](#text-mining---course-syllabus))
-## Accommodation
 
+## Students with Special Needs
+Students who need to make arrangements for special circumstances should make an appointment to speak with us. We are a strong advocate of an equal opportunity learning environment for all students. We have accommodations that we can implement to ensure this equal opportunity environment. Please contact [Services for Students with Disabilities](www.ssd.vt.edu) to get assistance with the documentation process. For any other questions, please contact the teaching team. 
 ([Back to Top](#text-mining---course-syllabus))
