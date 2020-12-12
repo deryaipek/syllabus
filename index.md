@@ -2,7 +2,7 @@
 ## Content
 [Basic Information](#basic-information)
 
-[Course Overview](#course-overview)
+[Course Overview and Learning Objectives](#course-overview)
 
 [Tentative Schedule](#tentative-schedule) 
 
@@ -20,7 +20,7 @@
 
 ## Basic Information
 
-## Course Overview
+## Course Overview and Learning Objectives
 
 ## Tentative Schedule
 
