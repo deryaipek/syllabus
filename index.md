@@ -2,7 +2,7 @@
 
 [Basic Information](#basic-information) | [Course Overview](#course-overview)
 
-## Basic Information
+## Basic Information ## [Back to Top]()
 
 ## Course Overview
 
@@ -13,7 +13,7 @@ Week | Topic | Resource | Deliverable (if any)
 Content from cell 1 | Content from cell 2 |3 |4
 Content in the first column | Content in the second column|3|4
 
-## Resources
+## Resources 
 
 ## Requirements
 
