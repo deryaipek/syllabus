@@ -19,13 +19,21 @@
 [Accomodation](#accommodation) 
 
 ## Basic Information
+### Teaching Team
+
 **Course Instructor**: Derya Ipek Eroglu
 
-### Contact Information
 **Email:** deryaipek[at]vt[dot]edu
+
 **Office:** Pamplin 2004
 
+**Teaching Assistant:** TBA
 
+**Email:** TBA
+
+**Office:** TBA
+
+([Back to Top](#text-mining))
 ## Course Overview and Learning Objectives
 
 ## Tentative Schedule
