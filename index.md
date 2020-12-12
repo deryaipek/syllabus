@@ -1,5 +1,5 @@
 # Text Mining
-(Basic Information)[#Course Overview]
+[Basic Information](#Course Overview)
 
 ## Basic Information
 
