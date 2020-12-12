@@ -36,15 +36,33 @@
 ([Back to Top](##text-mining---course-syllabus))
 ## Course Overview and Learning Objectives
 
-With rapid digitization, we do not only get connected, but also connect faster and generate more content all of which are stored at clouds and data warehouses for various reasons. There is huge amount of data out there to be analyzed, millions of questions to be answered, and millions of algorithms to be developed to better analyze this data. Current Artificial Intelligence and Machine Learning practices focus solely on handling this data and extracting insights. Among all the various data types, perhaps the most challenging one is _text data_. The challenge of the text data comes from its differing use across individuals and its flexibility in expressing different concepts/objects/emotions which are primarily because we are performing a linguistic analysis. In this class, we not only discuss AI/ML applications on Text Mining but also focus on the interpretive nature of it. We also cover some of the _bad algorithms_ and discuss the societal impacts.
+With rapid digitization, we do not only get connected, but also connect faster and generate more content all of which are stored at clouds and data warehouses for various reasons. There is huge amount of data out there to be analyzed, millions of questions to be answered, and millions of algorithms to be developed to better analyze this data. Current Machine Learning (ML) and Deep Learning (DL) practices focus solely on handling this data and extracting insights. Among all the various data types, perhaps the most challenging one is _text data_. The challenge of the text data comes from its differing use across individuals and its flexibility in expressing different concepts/objects/emotions which are primarily because we are performing a linguistic analysis. In this class, we not only discuss ML/DL applications on Text Mining but also focus on the interpretive nature of it. We also cover some of the _bad algorithms_ and discuss the societal impacts.
+
+**Learning Objectives**
+1. Help students have a deeper understanding of the ML/DL applications on Text Data
+2. Provide students with the recent text mining practices and the research methodologies
+3. Help students understand the challenges and pitfalls of text mining applications using _bad_ text mining applications
+4. Help students gain a familiarity to the field at the level of utilizing and understanding the research papers of the field
 
 ([Back to Top](##text-mining---course-syllabus))
 ## Tentative Schedule
 
-Week | Topic | Resource | Deliverable (if any)
+Week | Topic | Resource | Activity/Deliverable
 ------------ | ------------- | ------------ | ------------- 
-Content from cell 1 | Content from cell 2 |3 |4
-Content in the first column | Content in the second column|3|4
+1 | Intro I - Text as Data  | Resource | Personal Introduction
+2 | Intro II - Text Mining Applications  | Resource | Project Ideas
+3 | Text Processing | Resource | Homework 1 - Word Cloud
+4 | Document Similarity  | Resource | Homework 1
+5 | Document Classification I - Naive Bayes and Classification Tree  | Resource | Midsemester Feedback
+6 | Document Representation - Embeddings I  | Resource | Progress Report
+7 | Document Representation - Embeddings II | Resource | Homework 2
+8 | Document Clustering I | Resource | -
+9 | Document Clustering II  | Resource | Cluster Interpretation
+10 | Document Classification II - Neural Networks | Resource | Homework 3
+11 | Document Classification III - Deep Learning  | Resource | -
+12 | Text Mining and Societal Issues | Resource | 
+13 | Text Mining and Societal Issues  | Resource | Homework 4
+14 | Project Presentation  | Resource | Final Paper
 
 ([Back to Top](##text-mining---course-syllabus))
 ## Resources
