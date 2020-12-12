@@ -1,5 +1,30 @@
 # Text Mining
 
+## Basic Information
+
+## Course Overview
+
+## Resources
+
+## Requirements
+
+## Grading and Evaluation
+
+## Policies
+
+## Academic Integrity
+
+## Tentative Schedule
+
+Week | Topic | Resource | Deliverable (if any)
+------------ | ------------- | ------------ | ------------- 
+Content from cell 1 | Content from cell 2 |3 |4
+Content in the first column | Content in the second column|3|4
+
+## Statement on Accommodation
+
+
+
 You can use the [editor on GitHub](https://github.com/deryaipek/syllabus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
