@@ -36,6 +36,9 @@
 ([Back to Top](##text-mining---course-syllabus))
 ## Course Overview and Learning Objectives
 
+With rapid digitization, we do not only get connected, but also connect faster and generate more content all of which are stored at clouds and data warehouses for various reasons. There is huge amount of data out there to be analyzed, millions of questions to be answered, and millions of algorithms to be developed to better analyze this data. Current Artificial Intelligence and Machine Learning practices focus solely on handling this data and extracting insights. Among all the various data types, perhaps the most challenging one is _text data_. The challenge of the text data comes from its differing use across individuals and its flexibility in expressing different concepts/objects/emotions which are primarily because we are performing a linguistic analysis. In this class, we not only discuss AI/ML applications on Text Mining but also focus on the interpretive nature of it. We also cover some of the _bad algorithms_ and discuss the societal impacts.
+
+([Back to Top](##text-mining---course-syllabus))
 ## Tentative Schedule
 
 Week | Topic | Resource | Deliverable (if any)
@@ -43,53 +46,22 @@ Week | Topic | Resource | Deliverable (if any)
 Content from cell 1 | Content from cell 2 |3 |4
 Content in the first column | Content in the second column|3|4
 
+([Back to Top](##text-mining---course-syllabus))
 ## Resources
 
+([Back to Top](##text-mining---course-syllabus))
 ## Requirements
-[Click me](http://www.google.com){: .btn}
 
+([Back to Top](##text-mining---course-syllabus))
 ## Grading and Evaluation
 
+([Back to Top](##text-mining---course-syllabus))
 ## Policies
 
+([Back to Top](##text-mining---course-syllabus))
 ## Academic Integrity
 
+([Back to Top](##text-mining---course-syllabus))
 ## Accommodation
 
-
-
-You can use the [editor on GitHub](https://github.com/deryaipek/syllabus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deryaipek/syllabus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+([Back to Top](##text-mining---course-syllabus))
