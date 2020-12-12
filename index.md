@@ -2,7 +2,7 @@
 ## Content
 [Basic Information](#basic-information)
 
-[Course Overview and Learning Objectives](#course-overview)
+[Course Overview and Learning Objectives](#course-overview-and-learning-objectives)
 
 [Tentative Schedule](#tentative-schedule) 
 
@@ -19,6 +19,12 @@
 [Accomodation](#accommodation) 
 
 ## Basic Information
+**Course Instructor**: Derya Ipek Eroglu
+
+### Contact Information
+**Email:** deryaipek[at]vt[dot]edu
+**Office:** Pamplin 2004
+
 
 ## Course Overview and Learning Objectives
 
