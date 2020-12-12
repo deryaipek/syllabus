@@ -24,6 +24,7 @@ Content in the first column | Content in the second column|3|4
 ## Resources
 
 ## Requirements
+[Click me](http://www.google.com){: .btn}
 
 ## Grading and Evaluation
 
