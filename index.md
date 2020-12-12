@@ -1,6 +1,6 @@
 # Text Mining
-[Basic Information](/syllabus#basic-information)
-
+[Basic Information](#basic-information)
+[Course Overview](#course-overview)
 ## Basic Information
 
 ## Course Overview
