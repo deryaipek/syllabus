@@ -14,7 +14,7 @@
 
 [Academic Integrity](#academic-integrity) 
 
-[Accomodation](#accommodation) 
+[Students with Special Needs](#students-with-special-needs) 
 
 ## Basic Information
 ### Teaching Team
