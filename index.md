@@ -1,5 +1,5 @@
 # Text Mining
-[Basic Information](#Course Overview)
+[Basic Information](https://deryaipek.github.io/syllabus#Basic Information)
 
 ## Basic Information
 
